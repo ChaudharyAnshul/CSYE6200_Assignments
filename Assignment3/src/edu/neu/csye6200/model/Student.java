@@ -41,6 +41,7 @@ public class Student extends Person{
 				", age= " + getAge() + 
 				", firstName= " + getFirstName() + 
 				", lastName= " + getLastName() + 
+				", GPA= " + getGpa() + 
 				", parentFirstName= " + getParent().getFirstName() + 
 				", parentLastName= " + getParent().getLastName() + "\n";
 	}
