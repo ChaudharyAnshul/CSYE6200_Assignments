@@ -1,0 +1,5 @@
+firstName, lastName, id, age, gpa, parentFirstName, parentLastName
+Ann, Miller, 1, 23, 3.3, Lia, Miller
+Bob, Carter, 2, 24, 4.0, Car, Carter
+Sam, Barn, 3, 21, 3.5, Tom, Barn
+Zap, Sam, 4, 20, 3.0, Ben, Sam
