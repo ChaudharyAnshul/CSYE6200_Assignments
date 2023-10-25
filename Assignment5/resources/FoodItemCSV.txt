@@ -1,0 +1,5 @@
+Id,Name,Price
+01,Cake,10.00
+02,Banana,0.99
+03,Milk,2.98
+04,Egg,1.90

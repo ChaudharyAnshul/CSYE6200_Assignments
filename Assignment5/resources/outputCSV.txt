@@ -1,0 +1,13 @@
+Id,Name,Price
+21,AService,1000.0
+23,BService,500.98
+2,Banana,0.99
+22,CService,99.99
+1,Cake,10.0
+24,DService,20.9
+4,Egg,1.9
+12,Laptop,999.99
+3,Milk,2.98
+11,Mobile,100.0
+13,Mouse,50.98
+14,Watch,70.9
